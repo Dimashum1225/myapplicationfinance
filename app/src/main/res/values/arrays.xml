@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="income_transaction_items">
+        <item>Заработная плата/Стипендия/Пенсия</item>
+        <item>Дивиденды</item>
+        <item>Продажа акций</item>
+        <item>Арендные платежи</item>
+        <item>Подарки</item>
+        <item>Призы</item>
+        <item>Случайные заработки</item>
+
+    </array>
+    <array name="expense_transaction_items">
+        <item>Продукты питания</item>
+        <item>Жилье</item>
+        <item>Транспорт</item>
+        <item>Одежда/обувь</item>
+        <item>Подарки</item>
+        <item>Призы</item>
+        <item>Случайные расходы</item>
+
+    </array>
+
+</resources>
